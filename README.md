@@ -1,2 +1,0 @@
-# satisfactory
-Created with CodeSandbox
